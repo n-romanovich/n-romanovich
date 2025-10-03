@@ -4,3 +4,16 @@
  📌 В данный момент
 - Улучшаю навыки работы с проектами
 - Изучаю Python и JavaScript
+  
+##
+
+🔧 Проекты
+
+USB Test — a lightweight and portable utility written in C++ for checking removable drives.
+- ⚡ 3x faster than competitors
+- 💡 100% Free  
+- 🌍 Open source
+
+About:
+- Website: [usbtest.page.gd/](https://usbtest.page.gd)
+- GitHub: [repository](https://github.com/n-romanovich/usb-test)
