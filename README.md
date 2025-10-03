@@ -9,7 +9,7 @@
 
 🔧 Проекты
 
-USB Test — a lightweight and portable utility written in C++ for checking removable drives.
+**USB Test** — a lightweight and portable utility written in C++ for checking removable drives.
 - ⚡ 3x faster than competitors
 - 💡 100% Free  
 - 🌍 Open source
