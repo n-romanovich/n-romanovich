@@ -16,4 +16,4 @@
 
 About:
 - Website: [usbtest.page.gd/](https://usbtest.page.gd)
-- GitHub: [repository](https://github.com/n-romanovich/usb-test)
+- Repository: [GitHub](https://github.com/n-romanovich/usb-test)
