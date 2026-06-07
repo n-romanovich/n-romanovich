@@ -13,6 +13,6 @@
 -  Open source
 
 About:
-- Website: [usbtest.page.gd/](https://usbtest.page.gd)
+- Website: [usbtest.pro/](https://usbtest.pro)
 - SourceForge: [https://usb-test.sourceforge.io/](https://usb-test.sourceforge.io)
 - Repository: [GitHub](https://github.com/n-romanovich/usb-test)
